@@ -1,6 +1,9 @@
 # welcome bot: A Probot App
+- This bot is to help new users be welcomed to the project
 
-DESCRIPTION PLACEHOLDER
+- The bot is open source so others can help update
+
+- A Gihub App built with probot that celebrates new user activity within your repository.
 
 ## What it does
 
